@@ -1,10 +1,11 @@
 # Li-ion-battery-equivalent-circuit-parameterization
 Parameterizes a 1st, 2nd or 3rd order ECM using two methods. 
 
-This set of scripts is developed at McMaster University by Wenlin Zhang (zhanw9@mcmaster.ca). 
+This set of scripts is developed at McMaster University by Wenlin Zhang (zhanw9@mcmaster.ca). A video recording of the tutorial can be found at (at the bottom of the page): https://hevpdd.ca/fall-2022-hevpdd-create-and-eecomobility-conference/
 Two methods - directly and analytical - are used to parameterize a first, second or third order ECM.
-Details on these methods can be found at DOI: 10.1109/ITEC53557.2022.9814019. 
-A video recording of the tutorial can be found at (at the bottom of the page): https://hevpdd.ca/fall-2022-hevpdd-create-and-eecomobility-conference/
+
+Please cite: Zhang, W., Ahmed, R., Habibi, S., 2022. The Effects of Test Profile on Lithium-ion Battery Equivalent-Circuit Model Parameterization Accuracy, in: 2022 IEEE Transportation Electrification Conference & Expo (ITEC). Presented at the 2022 IEEE Transportation Electrification Conference & Expo (ITEC), pp. 119–124. https://doi.org/10.1109/ITEC53557.2022.9814019
+
 
 /*********************************************************************************************************************************
 Folder "\scripts" contains three main files: 
